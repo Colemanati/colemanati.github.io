@@ -1,0 +1,20 @@
+h1 {
+    color: #870299;
+}
+
+h2 {
+    color: #870299;
+}
+
+body {
+    background-color: #c6e300;
+}
+
+p {
+    color: #bd6800;
+}
+
+img {
+    border-radius: 20px;
+    box-shadow: 7px 7px rgba(157, 190, 48, 0.47);
+}
