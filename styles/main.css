@@ -41,6 +41,7 @@ header, footer, footer a {
     text-align: center;
     background-color: #2b57ce;
     color: whitesmoke;
+    text-decoration: none;
     
 }
 
@@ -57,5 +58,6 @@ footer {
     font-size: .75rem;
     background-color: #2b57ce;
     margin-top: 750px;
-    color: #092f96;   
+    color: #092f96; 
+    
 }
