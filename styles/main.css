@@ -8,18 +8,19 @@ body {
     background-color: #FF7800;
     font-size: 16px; 
     line-height: 32px;
-    font-family: "Stoke", serif;
+    font-family: 'PT Sans', sans-serif;
+
    
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     color: #000;
     
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
     color: #ad5200;
     border-bottom: 3px solid #2b57ce;
@@ -27,9 +28,24 @@ h2 {
 }
 
 ul {
-    color: #072475;
+    color: #2b57ce;
     padding-top: 20px;
+    font-size: 20px
 }
+
+a:link {
+    text-decoration: none;
+    color: #2b57ce;
+}
+
+a:visited {
+    color: #ffc64f;
+}
+
+a:hover {
+    color: #072475;
+}
+
 
 header, main, footer {
     margin: 1.25rem auto;
