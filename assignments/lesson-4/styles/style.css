@@ -1,0 +1,52 @@
+* {
+    background-color: #d9f3fc;
+}
+body {
+     
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    background-color: d9f3fc;
+}
+
+header {
+   background-color: #579bd3;
+   padding: 5rem;
+   font-family: 'Oswald', sans-serif;
+   
+}
+
+header > img {
+    width: 150px;
+    height: auto;
+    vertical-align: middle;
+    
+}
+
+.headertext {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.headertext h1 {
+    font-size: 3rem;
+}
+
+.subheading {
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+.currentconditions {
+    display: inline-block;
+    margin: 1rem 0 1rem 5rem;
+    padding: 1.2rem;
+    vertical-align: middle;
+    background-color: red;
+    border: 1pt solid #cccb1b;
+    font-size: 1.1rem;
+}
+
+.currentconditions img {
+    width: 100px;
+    height: auto;
+}
